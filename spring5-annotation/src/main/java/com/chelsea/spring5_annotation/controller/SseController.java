@@ -19,7 +19,7 @@ import reactor.util.function.Tuples;
  *
  */
 @RestController
-@RequestMapping("/see")
+@RequestMapping("/sse")
 public class SseController {
 
     @GetMapping("/randomNumbers")
