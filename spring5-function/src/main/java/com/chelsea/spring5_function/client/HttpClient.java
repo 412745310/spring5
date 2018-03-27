@@ -7,7 +7,12 @@ import reactor.core.publisher.Mono;
 
 import com.chelsea.spring5_function.entity.Post;
 
-
+/**
+ * WebFlux的http客户端
+ * 
+ * @author shevchenko
+ *
+ */
 public class HttpClient {
 
     public static void main(String[] args) {
